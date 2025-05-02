@@ -1,0 +1,10 @@
+.env
+
+# Docker
+docker-compose.yml
+Dockerfile
+Dockerfile.ngrok
+ngrok-wrapper.sh
+
+# npm
+node_modules
