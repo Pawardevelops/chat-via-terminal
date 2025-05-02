@@ -21,7 +21,7 @@ A simple terminal-based TCP chat server built with Node.js using the `net` modul
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/protocol-tcp-chat.git
+git clone https://github.com/Pawardevelops/protocol-tcp-chat.git
 cd protocol-tcp-chat
 ```
 
